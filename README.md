@@ -15,3 +15,4 @@ You need to have Docker installed
 2. Run the application with Docker
    1. `docker build . -t rastrojwt`
    2. `docker run rastrojwt`
+3. JWT and UserId will show up on terminal output
